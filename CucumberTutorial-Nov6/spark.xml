@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+
+        <theme>dark</theme>
+        <enableTimeline>true</enableTimeline>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <documentTitle>Cucumber Tutorial</documentTitle>
+        <reportName>Facebook Automation Results</reportName>
+
+    </configuration>
+</extentreports>
